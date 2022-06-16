@@ -1,0 +1,23 @@
+{
+    "Eggs🥚":{
+        "100 grams":"155 cal"
+    },
+    "Tuna🐠":{
+        "100 grams":"132cal"
+    },
+    "Chicken🍗":{
+        "100 grams":"239 cal"
+    },
+    "Pork🍖":{
+        "100 grams":"242 cal"
+    },
+    "Salmon🍣":{
+        "100 grams":"208 cal"
+    },
+
+    "Beef🥩":{
+        "100 grams":"250 cal"
+    }
+    
+
+}

@@ -1,0 +1,23 @@
+{
+    "Milk🥛":{
+        "100 grams":"42 cal"
+    },
+    "Yogurt🧉":{
+        "100 grams":"59 cal"
+    },
+    "Cheese🧀":{
+        "100 grams":"402 cal"
+    },
+    "ChocoMilk🍫":{
+        "100 grams":"83 cal"
+    },
+    "StringCheese🧀":{
+        "100 grams":"80 cal"
+    },
+
+    "Smoothie🍹":{
+        "100 grams":"37 cal"
+    }
+    
+
+}
